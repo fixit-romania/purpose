@@ -14,6 +14,6 @@ Let's use issues in this repo for general purpose discussions and proposals - ho
 Both Enlish and Romanian are fine.
 Se poate folosi atât limba engleză cât și limba română.
 
-## Fix Romania
+### end
 
 So, let's fix IT in Romania 🇷🇴🔧. Together, we can do it.🙌
